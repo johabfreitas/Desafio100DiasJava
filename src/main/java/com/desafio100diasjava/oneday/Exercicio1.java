@@ -2,6 +2,10 @@ package com.desafio100diasjava.oneday;
 
 import java.util.Scanner;
 
+/*
+* Desafio de concatenação
+* */
+
 public class Exercicio1{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);

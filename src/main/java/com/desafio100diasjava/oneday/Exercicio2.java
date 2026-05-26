@@ -1,7 +1,9 @@
     package com.desafio100diasjava.oneday;
 
     import java.util.Scanner;
-
+/*
+* Desafio dos operadores aritméticos
+* */
     public class Exercicio2 {
         public static void main(String[] args) {
            Scanner sc = new Scanner(System.in);
